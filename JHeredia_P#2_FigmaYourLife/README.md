@@ -11,3 +11,5 @@
 
 // Peer reviewed by: David Monterrosa
 // the site is very blue. The footer portion of the site hides content on the accomplishments page. I don't see very many bootstrap features. everything seems to function correctly. I like how the nav bar changes depending on the page. 
+
+
