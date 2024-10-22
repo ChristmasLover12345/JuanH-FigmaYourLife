@@ -1,0 +1,160 @@
+
+body
+{
+    background-color:rgb(218, 255, 237)
+    
+}
+
+
+
+.navBar
+{
+
+    background-color: aqua;
+    position: fixed;
+    padding: 40px;
+    
+    top: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+
+
+.navBtn
+{
+    
+    position:fixed;
+    right: 10px;
+    top: 20px;
+
+}
+
+.navBtnSister
+{
+    
+    position:fixed;
+    right: 200px;
+    top: 20px;
+
+}
+
+
+.socialBar
+{
+
+    background-color: aqua;
+    position: fixed;
+    padding: 20px;
+    
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.gitHubTweak
+{
+    text-align: right;
+}
+
+
+.bg-red
+{
+    background-color: red;
+}
+.bg-blue
+{
+    background-color: blue;
+}
+
+
+.tittle
+{
+
+        /* couldn't figure out how to put the tittle on the middle of the page so I just used margin */
+    margin-top: 180px;
+   
+}
+
+.tittleTweak
+{
+    margin-top: 90px;
+}
+
+
+.accomplishments
+{
+    text-align: center;
+    font-size: 40px;
+}
+
+.textCenter
+{
+    font-size: 100px;
+    text-align: center;
+}
+
+ .subTittle
+ {
+    font-size: 30px;
+ }
+
+.imageSize
+{
+    height: 100%;
+    width: 103%;
+    /* object-fit: cover; */
+}
+
+.spacer
+{
+    margin-top: 10px;
+}
+
+.br-aqua
+{
+    background-color: aqua;
+}
+
+.styleBar
+{
+    margin-bottom: 280px;
+}
+.centerText
+{ 
+  
+    background-color:rgb(218, 255, 237);
+    text-align: center;
+}
+
+.accomplishmentsNavBarTweak
+{
+    position:fixed;
+    right: 120px;
+    top: 20px;
+
+}
+
+.interestTittle
+{
+    text-align: center;
+    font-size: 30px;
+}
+
+.interestDesc
+{
+    text-align: center;
+    font-size: 20px;
+}
+
+.no-bullets
+ {
+    list-style-type: none;
+}
+
+.animeFit
+{
+    height: 80%;
+    width: 130%;
+    /* object-fit: cover; */
+}
